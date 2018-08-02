@@ -23,7 +23,7 @@
     "@angular/forms": "^6.0.5",
     "@angular/http": "^6.0.5",
     "@angular/platform-browser": "6.0.5",
-    "@angular/platform-browser-dynamic": "6.0.5",
+    "@angular/platform-browser-dynamic": "6.1.0",
     "@angular/platform-server": "6.0.5",
     "@angular/router": "^6.0.5",
     "@jh3y/whirl": "^1.0.7",
