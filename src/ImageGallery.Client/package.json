@@ -31,7 +31,7 @@
     "@ngx-translate/http-loader": "3.0.1",
     "@types/jquery": "3.3.2",
     "@types/moment": "2.13.0",
-    "@types/node": "10.3.3",
+    "@types/node": "10.5.5",
     "angular-oauth2-oidc": "^4.0.2",
     "angular-tree-component": "7.2.0",
     "angular2-platform-node": "2.1.0-rc.1",
